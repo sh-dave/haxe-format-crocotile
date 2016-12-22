@@ -1,0 +1,3 @@
+[submodule "Example/Libraries/format"]
+	path = Example/Libraries/format
+	url = https://github.com/HaxeFoundation/format
