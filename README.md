@@ -11,4 +11,4 @@ Using the optional tink_json it is typesafe though.
 - optional [tink_json](http://haxetink.org/tink_json)
 
 ## html5 demo
-[sh-dave.github.io/haxe-format-crocotile](click me)
+[click me](https://sh-dave.github.io/haxe-format-crocotile)
